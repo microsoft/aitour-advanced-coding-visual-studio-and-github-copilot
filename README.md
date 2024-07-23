@@ -6,19 +6,27 @@ To help prepare content for AI Tour, please use this template repository for org
 5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
 
 
-# [TODO: Insert Session Title]
+# Advanced Coding: Visual Studio & GitHub Copilot
 
 This repo is intended as a template for Microsoft AI Tour repositories
 
 ## Session Desciption
 
-TODO: Add short description of the session. Please note this description should be at a technical level that anyone from decision makers to conference attendees can understand.
+This session will cover using GitHub Copilot to solve a real-world scenario
+where an ecommerce application is having performance issues. GitHub Copilot
+will be used to understand the unfamiliar codebase and then explore and apply a
+solution. 
 
 ## Learning Outcomes
-TODO: Add a list of what you hope the attendee will take away from this session. This can be skills, technology, appreciation, etc.
+
+* GitHub Copilot features can help in real-world scenarios
+* Gain a thorough understanding of unknown codebases
+* Speedup your development workflows with ease
+
 
 ## Technology Used
-TODO: Add a list of any technology or software used.
+
+For this session, you will need Visual Studio with a Github account so that you can authenticate and use GitHub Copilot.
 
 ## Additional Resources and Continued Learning
 TODO: If you would like to link the user to further learning, please enter that here.
@@ -39,13 +47,23 @@ TODO: Add yourself as a content owner
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/cole-g-johnson.png" width="100px;" alt="Chris Testa-O'Neill
+        <img src="https://github.com/alfredodeza.png" width="100px;" alt="Chris Testa-O'Neill
 "/><br />
-        <sub><b>INSERT NAME HERE
+        <sub><b>Alfredo Deza
 </b></sub></a><br />
-            <a href="https://github.com/cole-g-johnson" title="talk">📢</a> 
+            <a href="https://github.com/alfredodeza" title="talk">📢</a> 
     </td>
-</tr></table>
+</tr>
+<tr>
+    <td align="center"><a href="http://learnanalytics.microsoft.com">
+        <img src="https://github.com/elbruno.png" width="100px;" alt="Chris Testa-O'Neill
+"/><br />
+        <sub><b>Alfredo Deza
+</b></sub></a><br />
+            <a href="https://github.com/elbruno" title="talk">📢</a> 
+    </td>
+</tr>
+</table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
