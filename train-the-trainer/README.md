@@ -31,9 +31,9 @@ code.
 
 This training repository is divided in to the following sections:
 
-| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](deployment/README.md) | 
+| [Slides](#slides) | [Demos](demos/README.md) | [Deployment](#deployment) | 
 |-------------------|---------------------------|--------------------------------------
-| 28 slides - 30 minutes| 1 demos - 15 minutes | Demo setup
+| 8 slides - 12 minutes| 1 demos - 33 minutes | Visual Studio with GitHub Copilot enabled
 
 ## Slides
 
@@ -43,27 +43,20 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 | Time        | Description 
 --------------|-------------
-0:00 - 5:00   | Intro to the session 
-5:00 - 15:00  | Why Modern Data Warehousing
-15:00 - 20:00 | Building the Modern data warehouse
-20:00 - 35:00 | Designing a modern data warehouse solution
-35:00 - 40:00 | The evolution of cloud scale analytics
-40:00 - 45:00 | Session review
+0:00 - 7:00   | Intro to the session 
+7:00 - 40:00  | Demo
+40:00 - 45:00 | Session conclusion and takeaways
 
-## Deployment / Preparation
+## Deployment
 
->**What's Here?** Deploying the demo environment on Azure - including the prerequisites.
-
-[Instructions and prerequisites are outlined here](deployment/README.md). 
+There is no deployment necessary for the demo. The only requirement is to use Visual Studio with GitHub Copilot. Ensure that you are logged in and authenticated properly with GitHub and that you have GitHub Copilot access for your account.
 
 
 ## Demos
 
-> **What's Here?** Pre-delivery preparation, stage ready videos, required files (such as JSON templates), and walk-through videos
-
-Detailed explanations of each demonstration associated with this presentation can be found in this section. There are 3 "live from stage" technical demonstrations that utilize a number of tools both in and out of Azure. [You can get a high level overview of the tools and how we will be using them here](demos/README.md).
+Detailed explanations of each demonstration associated with this presentation can be found in this section. There is a single hands-on demo using Visual Studio with GitHub Copilot on a .NET application that has a performance problem.
 
 | Demo 	                                                                                               | Minutes | Video |
 -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | 15       | [Link](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4) |
+|  [1 - Performance improvement with Visual Studio Code](demos/README.md) | 33       | [Link](https://microsoft-my.sharepoint.com/:v:/p/brunocapuano/ERZA6xvZNeNImsnuMr6tmtABy6O28RMvMBfu8gGlpBsHlQ?e=y4opzQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
 
