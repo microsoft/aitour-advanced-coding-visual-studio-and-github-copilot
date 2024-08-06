@@ -1,8 +1,3 @@
-## TODO:
-Update this page as you see fit to properly train a future presenter of your content. A past train the trainer repo is included below for your assitance, but feel free to make any changes.
-
-Note: Please make sure to update any links within the markdown so they point to the correct file.
-
 ## How To Use
 
 Welcome,
@@ -20,12 +15,10 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
+| Example repository | - [E-shop API repository](https://github.com/microsoft/aitour-eshop-api) | Repository to clone for the demo |
 | PowerPoint        | - [Presentation](presentations.md) | Slides |
-| PPT Recording     | - [Presentation](https://globaleventcdn.blob.core.windows.net/assets/data/data10/DATA10.mp4) | Video Recording of the PowerPoint slides with no audio |
-| Videos            | - [Microsoft Ignite Orlando Recording](https://myignite.techcommunity.microsoft.com/sessions/84354) | Example Presetations of this Session |
-| Demos             | - [Demo 1 - Exploring a Modern Data Warehouse](demos/README.md#demo-1---exploring-a-modern-data-warehouse) | Additional Demo Content | 
-| Demo Recordings           | - [Data10 - Prequisites](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10_Prerequisites-NoAudio.mp4) | Recording of the Demo Live 1 | 
-| Demo Recordings           | - [Data10 - Demo](https://globaleventcdn.blob.core.windows.net/assets/data/data10/Data10-Demo-NoAudio.mp4 ) | Recording of the Demo Live 2 | 
+| PPT Recording     | - [Presentation]() | Video Recording of the PowerPoint slides with no audio |
+
 
 ## Get Started
 
@@ -49,7 +42,7 @@ The [slides](presentations.md) have presenter notes in each part of the session
 
 ## Deployment
 
-There is no deployment necessary for the demo. The only requirement is to use Visual Studio with GitHub Copilot. Ensure that you are logged in and authenticated properly with GitHub and that you have GitHub Copilot access for your account.
+There is no deployment necessary for the demo. The only requirement is to use Visual Studio with GitHub Copilot using the [E-shop API repository](https://github.com/microsoft/aitour-eshop-api). Ensure that you are logged in and authenticated properly with GitHub and that you have GitHub Copilot access for your account.
 
 
 ## Demos

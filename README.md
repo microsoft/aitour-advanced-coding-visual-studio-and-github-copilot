@@ -10,7 +10,7 @@ To help prepare content for AI Tour, please use this template repository for org
 
 # Advanced Coding: Visual Studio & GitHub Copilot
 
-This repo is intended as a template for Microsoft AI Tour repositories
+This repo is intended for Microsoft AI Tour session: _"Advanced Coding: Visual Studio & GitHub Copilot"_ . It has materials for both the presenter and the participants.
 
 ## Session Desciption
 
@@ -28,7 +28,7 @@ solution.
 
 ## Technology Used
 
-For this session, you will need Visual Studio with a Github account so that you can authenticate and use GitHub Copilot.
+For this session, you will need Visual Studio with a Github account so that you can authenticate and use GitHub Copilot. You must clone the [E-shop API repository](https://github.com/microsoft/aitour-eshop-api) for presenting.
 
 ## Additional Resources and Continued Learning
 
@@ -44,7 +44,7 @@ For this session, you will need Visual Studio with a Github account so that you 
 <table>
 <tr>
     <td align="center"><a href="http://learnanalytics.microsoft.com">
-        <img src="https://github.com/alfredodeza.png" width="100px;" alt="Alflredo Deza
+        <img src="https://github.com/alfredodeza.png" width="100px;" alt="Alfredo Deza
 "/><br />
         <sub><b>Alfredo Deza
 </b></sub></a><br />
