@@ -15,7 +15,7 @@ code.
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| PowerPoint        | - [Presentation](presentations.md) | Slides |
+| PowerPoint        | - [Presentation](https://aka.ms/AArpdue) | Slides |
 | PPT Recording     | - [Presentation]() | Video Recording of the PowerPoint slides with no audio |
 
 ## Get Started
