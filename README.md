@@ -25,6 +25,9 @@ For this session, you will need Visual Studio with a Github account so that you 
 
 ## Additional Resources and Continued Learning
 
+If you are presenting these slides, you can find additional resources, including the slides for the presentation and train the trainer material [here](/train-the-trainer/README.md).
+
+
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Advanced GitHub Copilot  | [Learn Module](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/) | Learn about Advanced GitHub Copilot features |
