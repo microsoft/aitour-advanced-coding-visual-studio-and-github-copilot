@@ -1,23 +1,16 @@
-<!--
-To help prepare content for AI Tour, please use this template repository for organizing your sessions and preparing the content for future presentors.
-1. Update this readme with the todo's listed below
-2. The src folder has been created for all development tasks when creating this session
-3. The Lab folder is in-person and async participation with content, please update this folder with instructions for participants to follow along.
-4. The Presenter Notes folder is the train the trainer section. Here add any slide decks, demo videos, and other content as needed. This page has a rough layout to provide ideas but can be edited as needed.
-5. If you are taking advantage of the static front end site, edit the content in the _config.yml file as needed (specifically the title and description)
--->
-
-
 # Advanced Coding: Visual Studio & GitHub Copilot
 
-This repo is intended as a template for Microsoft AI Tour repositories
+This repo is a companion to this session at Microsoft AI Tour, a worldwide tour of events.
+
+![Session cover image with a bright "A" text in 3D over a yellow and green abstract background.](./img/EN-US_BRK432_tech.png)
+
 
 ## Session Desciption
 
 This session will cover using GitHub Copilot to solve a real-world scenario
 where an ecommerce application is having performance issues. GitHub Copilot
 will be used to understand the unfamiliar codebase and then explore and apply a
-solution. 
+solution.
 
 ## Learning Outcomes
 
