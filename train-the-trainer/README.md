@@ -28,26 +28,24 @@ This training repository is divided in to the following sections:
 
 ## Slides
 
-The [slides](presentations.md) have presenter notes in each part of the session
+The [slides](https://aka.ms/AArpdue) have presenter notes in each part of the session
 
 ### Timing
 
-| Time        | Description 
---------------|-------------
-0:00 - 7:00   | Intro to the session 
-7:00 - 40:00  | Demo
-40:00 - 45:00 | Session conclusion and takeaways
+| Time        | Description  |
+| --------------|------------- |
+| 00:00 - 07:00 | Intro to the session  |
+| 07:00 - 40:00 | Demo |
+| 40:00 - 45:00 | Session conclusion and takeaways |
 
 ## Deployment
 
 There is no deployment necessary for the demo. The only requirement is to use Visual Studio with GitHub Copilot. Ensure that you are logged in and authenticated properly with GitHub and that you have GitHub Copilot access for your account.
 
-
 ## Demos
 
 Detailed explanations of each demonstration associated with this presentation can be found in this section. There is a single hands-on demo using Visual Studio with GitHub Copilot on a .NET application that has a performance problem.
 
-| Demo 	                                                                                               | Minutes | Video |
--------------------------------------------------------------------------------------------------------|---------|----------------- | 
+| Demo                                                                                               | Minutes | Video |
+| -------------------------------------------------------------------------------------------------------|---------|----------------- | 
 |  [1 - Performance improvement with Visual Studio Code](demos/README.md) | 33       | [Link](https://microsoft-my.sharepoint.com/:v:/p/brunocapuano/ERZA6xvZNeNImsnuMr6tmtABy6O28RMvMBfu8gGlpBsHlQ?e=y4opzQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
-
