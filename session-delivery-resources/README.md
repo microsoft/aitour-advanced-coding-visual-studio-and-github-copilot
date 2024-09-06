@@ -26,7 +26,7 @@ This training repository is divided in to the following sections:
 
 | [Slides](#slides) | [Demos](demos/README.md) | [Deployment](#deployment) | 
 |-------------------|---------------------------|--------------------------------------
-| 8 slides - 12 minutes| 1 demos - 33 minutes | Visual Studio with GitHub Copilot enabled
+| 8 slides - 12 minutes| 1 demos - 20 minutes | Visual Studio with GitHub Copilot enabled
 
 ## Slides
 
