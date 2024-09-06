@@ -1,3 +1,5 @@
+The following resources are intended for a presenter to learn and deliver the session.
+
 ## How To Use
 
 Welcome,
@@ -34,9 +36,16 @@ The [slides](https://aka.ms/AArpdue) have presenter notes in each part of the se
 
 | Time        | Description  |
 | --------------|------------- |
-| 00:00 - 07:00 | Intro to the session  |
-| 07:00 - 40:00 | Demo |
-| 40:00 - 45:00 | Session conclusion and takeaways |
+| 00:00 - 00:30 | Intro to the session  |
+| 00:30 - 40:00 | Developer Challenges |
+| 01:10 - 06:00 | Copilot Effect |
+| 06:00 - 12:55 | Demo 1 |
+| 12:55 - 14:30 | Demo 1 - Recap |
+| 14:30 - 18:05 | Demo 2 |
+| 18:05 - 20:08 | Demo 2 - Recap |
+| 20:08 - 24:22 | Demo 3 |
+| 24:22 - 25:20 | Demo 3 - Recap |
+| 25:20 - 27:00 | Session conclusion and takeaways |
 
 ## Deployment
 
@@ -48,4 +57,4 @@ Detailed explanations of each demonstration associated with this presentation ca
 
 | Demo                                                                                               | Minutes | Video |
 | -------------------------------------------------------------------------------------------------------|---------|----------------- | 
-|  [1 - Performance improvement with Visual Studio Code](demos/README.md) | 33       | [Link](https://microsoft-my.sharepoint.com/:v:/p/brunocapuano/ERZA6xvZNeNImsnuMr6tmtABy6O28RMvMBfu8gGlpBsHlQ?e=y4opzQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)|
+|  [1 - Performance improvement with Visual Studio Code](demos/README.md) | 27       | [Link](https://aka.ms/AAryyuf)|
