@@ -4,3 +4,6 @@ GET {{HostAddress}}/api/Product
 Accept: application/json
 
 ###
+
+GET {{HostAddress}}/api/Product/search/outdoor
+Accept: application/json
