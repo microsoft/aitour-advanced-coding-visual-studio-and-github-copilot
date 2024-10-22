@@ -75,17 +75,9 @@ public static class ProductEndpoints
             var stopwatch = new Stopwatch();
             stopwatch.Start();
 
-            List<Product> products = new List<Product>();
-            var name = "";
-            for (int i = 0; i < db.Product.Count(); i++)
-            {
-                var product = db.Product.ToArray()[i];
-                name = product.Name;
-                if (name.Contains(search, StringComparison.InvariantCultureIgnoreCase))
-                {
-                    products.Add(product);
-                }
-            }
+            var products = await db.Product
+        .Where(p => EF.Functions.Like(p.Name, $"%{search}%"))
+        .ToListAsync();
 
             stopwatch.Stop();
 
