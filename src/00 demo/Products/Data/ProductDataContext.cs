@@ -49,8 +49,8 @@ public static class DbInitializer
 
         context.AddRange(products);
 
-        // sample add +500 products based on the original set
-        context.AddRange(GetProductsToAdd(500, products));
+        // sample add +100 products based on the original set
+        context.AddRange(GetProductsToAdd(100, products));
 
         context.SaveChanges();
     }
